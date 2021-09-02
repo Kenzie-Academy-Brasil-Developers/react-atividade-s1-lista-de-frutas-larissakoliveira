@@ -1,0 +1,12 @@
+.buttonStyle{
+    background-color: blue;
+    height: 70px;
+    width: 150px;
+    border-radius: 10px;
+    color: rgb(223, 64, 16);
+    font-style: italic;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 15px;
+    margin-top: 15px;
+}
